@@ -1,7 +1,7 @@
 * xref:home::index.adoc[Home]
 
 * [.separated]#**Portfolio**#
-//* xref:learning:index.adoc[Online Learning Resource]
+* xref:learning:index.adoc[Online Learning Resource]
 * xref:instructions.adoc[Instructions]
 * xref:portfolio::somethingelse.adoc[Something Else]
 //* Link[Documentation Projects]
