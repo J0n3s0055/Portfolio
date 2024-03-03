@@ -1,3 +1,5 @@
+* [.separated]#**NPJ Website**#
+* xref:home:index.adoc[]
 
 * [.separated]#**Portfolio**#
 //* xref:learning:index.adoc[Online Learning Resource]
