@@ -1,5 +1,5 @@
 name: portfolio
-title: LuxTechWriting
+title: Portfolio
 version: ~
 nav:
 - modules/ROOT/nav.adoc
