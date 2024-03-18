@@ -1,1 +1,3 @@
 :doctitle: Something Else
+
+xref:{attachmentsdir}/test/index.html
