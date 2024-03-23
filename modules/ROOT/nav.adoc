@@ -17,7 +17,7 @@
 ** xref:cv.adoc[Curriculum Vitae: Nicole Paterson-Jones]
 
 * [.separated]#**Dev Links**#
-* xref:portfolio::somethingelse.adoc[Temporary link to Rise 360 content]
+** xref:portfolio::somethingelse.adoc[Temporary link to Rise 360 content]
 
 
 //* Link[Documentation Projects]
