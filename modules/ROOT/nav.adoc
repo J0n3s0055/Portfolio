@@ -1,11 +1,12 @@
 * xref:home::index.adoc[Home]
 
-* [.separated]#**Portfolio**#
-* xref:port_index.adoc[EL6052 Portfolio Assignment Introduction]
+* [.separated]#**EL6052 Portfolio Assignment**#
+** xref:port_index.adoc[ Introduction]
 ** xref:art1_instr.adoc[Instructions]
 ** xref:art2_instr.adoc[2. to follow]
 ** xref:art3_instr.adoc[3. to follow]
 ** xref:art4_instr.adoc[4. to follow]
+** xref:cv.adoc[Curriculum Vitae: Nicole Paterson-Jones]
 
 * [.separated]#**Final Project**#
 * https://luxtechwriting.com/portfolio/_attachments/test/index.html[Online Learning Resource: Understanding and Querying EU Public Procurement Data]
@@ -13,8 +14,7 @@
 * [.separated]#**Reflective Writing**#
 ** xref:blog_index.adoc[Reflective Writing Blog]
 
-* [.separated]#**Curriculum Vitae**#
-** xref:cv.adoc[Curriculum Vitae: Nicole Paterson-Jones]
+
 
 * [.separated]#**Dev Links**#
 ** xref:portfolio::somethingelse.adoc[Temporary link to Rise 360 content]
