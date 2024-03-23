@@ -1,0 +1,23 @@
+:doctitle: Portfolio Assignment EL6052
+
+=== Introduction
+This page introduces the artifacts chosen for Course EL6052, Assignment 2, and a link to my online CV.
+
+The artifacts chosen were those that I felt were the most interesting, or provided the most learning. They can be accessed via the links below. Each page consists of a representation of the artifact or a link to it, and a short reflection on the associated development and learning covering:
+
+* Why I chose the artifact
+* Which skills were demonstrated
+* What I learnt from developing, improving, or writing the artifact
+
+=== Artifact Links
+
+Artifact 1 +
+Artifact 2 +
+Artifact 3 +
+Artifact 4
+
+=== Curriculum Vitae
+
+Curriculum Vitae - Nicole Paterson-Jones
+
+

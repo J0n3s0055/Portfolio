@@ -1,0 +1,32 @@
+:doctitle: Reflective Writing Blog
+
+This page introduces some blogs or pieces of Reflective Writing.
+
+== The Blog Topics
+
+Librarians and Information
+
+Do Technical Communicators need skills in Data Analysis?
+
+Creating Technical Documentation Sites with Antora and Asciidoc
+
+Online Learning in Africa: Barriers and Opportunities
+
+My experiences with GitHub Co-pilot
+
+Resetting my perspective on my learning journey
+
+7
+
+Reflections on the Masters in Technical Communication and eLearning
+
+== Blogs I follow
+
+The blogs I follow tend to be technology related as that is one of my main interests, especially new developments in science, medicine, engineering and computer science.
+
+#insert links#
+
+However, I also follow blogs by musical composers, art and philosophy and critical thinking.
+
+#insert links#
+
