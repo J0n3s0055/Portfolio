@@ -6,23 +6,27 @@ This page introduces some blogs or pieces of Reflective Writing.
 
 Librarians and Information
 
-Do Technical Communicators need skills in Data Analysis?
-
 Creating Technical Documentation Sites with Antora and Asciidoc
+
+Do Technical Communicators need skills in Data Analysis?
 
 Online Learning in Africa: Barriers and Opportunities
 
-My experience with AI: GitHub Copilot
+AI: html with GitHub Copilot
+
+More on Antora and Asciidoc, completing the toolset
 
 Resetting my perspective on my learning journey
-
-7
 
 Reflections on the Masters in Technical Communication and eLearning
 
 == Blogs I follow
 
-The blogs I follow tend to be technology related as that is one of my main interests, especially new developments in science, medicine, engineering and computer science.
+The blogs I follow tend to be technology related as this is one of my main interests, especially new developments in science, medicine, engineering and computer science:
+
+https://danielmiessler.com/[Unsupervised Learning], a Blog about AI Tools
+
+
 
 #insert links#
 
