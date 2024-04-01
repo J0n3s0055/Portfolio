@@ -24,9 +24,11 @@ Reflections on the Masters in Technical Communication and eLearning
 
 The blogs I follow tend to be technology related as this is one of my main interests, especially new developments in science, medicine, engineering and computer science:
 
-https://danielmiessler.com/[Unsupervised Learning], a Blog about AI Tools
+https://danielmiessler.com/[Unsupervised Learning], a Blog about AI Tools.
 
+https://www.youtube.com/@UndecidedMF/featured[Undecided], A Vlog about green energy.
 
+https://howthelightgetsin.org/festivals[How the light gets in], A yearly festival on new ideas, philosophy and science.
 
 #insert links#
 

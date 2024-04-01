@@ -6,7 +6,7 @@
 ** xref:portfolio::art2_instr.adoc[2. to follow]
 ** xref:portfolio::art3_instr.adoc[3. to follow]
 ** xref:portfolio::art4_instr.adoc[4. to follow]
-** xref:portfolio::cv.adoc[Curriculum Vitae: Nicole Paterson-Jones]
+** xref:portfolio::cv.adoc[Curriculum Vitae]
 
 * [.separated]#**Final Project**#
 ** https://luxtechwriting.com/portfolio/_attachments/test/index.html[Online Learning Resource ]
