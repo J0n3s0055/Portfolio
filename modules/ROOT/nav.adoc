@@ -9,7 +9,7 @@
 ** xref:portfolio::cv.adoc[Curriculum Vitae]
 
 * [.separated]#**Final Project**#
-** https://luxtechwriting.com/portfolio/_attachments/test2/index.html[Online Learning Resource ]
+** xref:attachment$test2/index.html[Online Learning Resource]
 
 * [.separated]#**Reflective Writing**#
 ** xref:portfolio::blog_index.adoc[Reflective Writing Blog]
